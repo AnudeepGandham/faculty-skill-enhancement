@@ -1,2 +1,2 @@
-# fseaBackend
-Faculty Skill Enhancement Activity Tracker Backend
+
+Faculty Skill Enhancement Activity Tracker 
